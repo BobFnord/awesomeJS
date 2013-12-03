@@ -1,1 +1,1 @@
-This is my cerimonious welcome to GitHub, and new perspective as a software developer. Madness.
+This is my ceremonious welcome to GitHub, and new perspective as a software developer. Madness.
